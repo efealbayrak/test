@@ -10,11 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            while (true)
-            {
-                // Displaying my nameeee
-                Console.Write("Efe");
-            }
+            // Displaying my nameeee
+            Console.Write("Efe");
         }
     }
 }
